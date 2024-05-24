@@ -1,0 +1,36 @@
+{
+  "name": "multichat",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Multichat is a messaging app with focus on security & user experience",
+  "keywords": [
+    "multichat",
+    "multichat.network"
+  ],
+  "authors": [
+    {
+      "name": "soulaimaneyahya",
+      "email": "contact@soulaimaneyahya.com"
+    }
+  ],
+  "scripts": {
+    "dev": "gridsome develop",
+    "build": "gridsome build",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0"
+  },
+  "bugs": {
+    "url": "https://github.com/MultiChatNetwork/MultiChatNetwork.github.io/issues"
+  },
+  "homepage": "https://github.com/MultiChatNetwork/MultiChatNetwork.github.io",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MultiChatNetwork/MultiChatNetwork.github.io.git"
+  },
+  "engines": {
+    "nvm": "16",
+    "node": "^16.0.0"
+  }
+}
