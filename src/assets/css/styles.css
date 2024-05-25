@@ -112,7 +112,7 @@ body {
   color: #333;
 }
 
-.announcement ul.announcement-content li {
+.announcement ul.announcement-content-list li {
   font-size: 18px;
   line-height: 2rem;
   list-style-type: disc;

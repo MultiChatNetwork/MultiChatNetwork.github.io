@@ -22,12 +22,12 @@
     "gridsome": "^0.7.0"
   },
   "bugs": {
-    "url": "https://github.com/MultiChatNetwork/MultiChatNetwork.github.io/issues"
+    "url": "https://github.com/MultiChatNetwork/multichatnetwork.github.io/issues"
   },
-  "homepage": "https://github.com/MultiChatNetwork/MultiChatNetwork.github.io",
+  "homepage": "https://github.com/MultiChatNetwork/multichatnetwork.github.io",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MultiChatNetwork/MultiChatNetwork.github.io.git"
+    "url": "git+https://github.com/MultiChatNetwork/multichatnetwork.github.io.git"
   },
   "engines": {
     "nvm": "16",

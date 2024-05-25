@@ -15,8 +15,8 @@
               <p class="announcement-date mb-2">Announced on July 7th, 2024.</p>
               <h3>MultiChat.network</h3>
             </div>
-            <ul class="announcement-content mb-3">
-              <li>
+            <ul class="announcement-content-list mb-3">
+              <li class="announcement-content-item">
                 <span>MultiChat began in CEO-Founder | Software Engineer</span>
                 <span
                   role="button"
@@ -26,10 +26,16 @@
                   @soulaimaneyahya
                 </span>
               </li>
-              <li>
+              <li class="announcement-content-item">
                 Multichat is a messaging app with focus on security & user experience
               </li>
-              <li>
+              <li class="announcement-content-item">
+                Messages are end-to-end encrypted. No one outside of this chat, not even MultiChat, can read or listen to them.
+              </li>
+              <li class="announcement-content-item">
+                Built-in layers of security give you the peace of mind to focus on connecting with family and friends.
+              </li>
+              <li class="announcement-content-item">
                 We'll provide more informations and details over the upcoming
                 weeks and months.
               </li>
