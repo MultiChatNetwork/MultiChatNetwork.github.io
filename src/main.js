@@ -11,14 +11,14 @@ export default function (Vue, { head, isClient }) {
   if (isClient) {
     const script = document.createElement('script');
     script.async = true;
-    script.src = `https://www.googletagmanager.com/gtag/js?id=G-RQWETTJBTY`;
+    script.src = `https://www.googletagmanager.com/gtag/js?id=G-8HL91MW1S3`;
     document.head.appendChild(script);
 
     script.onload = () => {
       window.dataLayer = window.dataLayer || [];
       function gtag(){ dataLayer.push(arguments); }
       gtag('js', new Date());
-      gtag('config', 'G-RQWETTJBTY');
+      gtag('config', 'G-8HL91MW1S3');
     };
   }
 

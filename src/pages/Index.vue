@@ -30,7 +30,7 @@
                 Multichat is a messaging app with focus on security & user experience
               </li>
               <li class="announcement-content-item">
-                Messages are end-to-end encrypted. No one outside of this chat, not even MultiChat, can read or listen to them.
+                Messages are end-to-end encrypted. No one outside of chat inbox, not even MultiChat, can read or listen to messages.
               </li>
               <li class="announcement-content-item">
                 Built-in layers of security give you the peace of mind to focus on connecting with family and friends.
