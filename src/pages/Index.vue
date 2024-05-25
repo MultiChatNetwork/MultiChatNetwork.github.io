@@ -17,7 +17,6 @@
             </div>
             <ul class="announcement-content-list mb-3">
               <li class="announcement-content-item">
-                <span>MultiChat began in CEO-Founder | Software Engineer</span>
                 <span
                   role="button"
                   class="fw-bold text-primary text-decoration-underline"
@@ -25,6 +24,7 @@
                 >
                   @soulaimaneyahya
                 </span>
+                <span>CEO-Founder | Software Engineer at MultiChat</span>
               </li>
               <li class="announcement-content-item">
                 Multichat is a messaging app with focus on security & user experience
